@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Title": "SOLID WOOL COAT",
+    "Category": "Jackets",
+    "Price": 89.99,
+    "Description": "Take a sophisticated turn in our impeccably tailored classic overcoat. Made from wool infused with stretch for maximum comfort."
+  },
+  {
+    "Id": 2,
+    "Title": "BACKSTREET BOYS HOODIE",
+    "Category": "Hoodies",
+    "Price": 50.00,
+    "Description": "Show your love of the iconic boy band in this concert souvenir hoodie, it's just like the classic original in a more earth-conscious design."
+  },
+  {
+    "Id": 3,
+    "Title": "TURTLENECK SWEATER",
+    "Category": "Sweaters",
+    "Price": 44.99,
+    "Description": "Styled from pima cotton with a hint of cashmere, we bring you the must-have turtleneck sweater (a best-seller year after year)."
+  },
+  {
+    "Id": 4,
+    "Title": "COLORBLOCK CARDIGAN",
+    "Category": "Sweaters",
+    "Price": 70.00,
+    "Description": "Made from pure organic cotton in an easy fit, our soft zip cardigan is a warm, lightweight versatile layer."
+  },
+  {
+    "Id": 5,
+    "Title": "ROLLING STONES T-SHIRT",
+    "Category": " T-Shirts",
+    "Price": 29.99,
+    "Description": "For the classic rock enthusiast, this throwback concert tee features the Rolling Stones logo from their touring days in the 90s."
+  }
+]
